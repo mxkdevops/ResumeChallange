@@ -1,5 +1,5 @@
 
-# Lessons Learned from Building a The Cloud Resume Challange  with AWS
+# Lessons Learned from Building  The Cloud Resume Challange  with AWS
 
 # Introduction:
 Recently, I embarked on a project to develop a serverless web application using various AWS services. Throughout the journey, I encountered several challenges and gained valuable insights that enhanced my understanding of cloud development, CI/CD workflows, and infrastructure management. In this blog post, I will share some of the key lessons I learned while working on this project.
